@@ -13,7 +13,8 @@ SWE Intern @ The Department of Homeland Security
 - Grinding LeetCode
 Applying to Jobs...
 # Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,express,react,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)\n
-[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)\n
-[![Game Development](https://skillicons.dev/icons?i=cs,unity,godot&theme=dark)](https://skillicons.dev)\n
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,netlify,idea,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,express,react,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)
+<br/>
+[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
+<br/>
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,aws,azure,github,figma,eclipse&theme=dark)](https://skillicons.dev)
