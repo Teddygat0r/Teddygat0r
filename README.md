@@ -1,12 +1,12 @@
 ### Hi There! I'm Joshua
 -----
 # :postbox: About Me
-I'm a computer science student @ the University of Washington.
-My experience with coding began when I was ~ 9 Y/O with [code.org]([url](https://code.org/)). Ever since then I've been working on random projects for fun, such as websites instead of Google Slides for classes and Mods for Minecraft Servers.
+I'm studying CS @ UW <br/>
+My experience with coding began when I was ~ 9 Y/O with [code.org]([url](https://code.org/)). Ever since then I've been working on random projects for fun, such as websites instead of Google Slides for classes and Mods for Minecraft Servers. Now I'm write react components and tinker with ML.
 ### :briefcase: Credentials
 Experience:
-SWE Intern @ The Art of Problem Solving
-SWE Intern @ The Department of Homeland Security
+- SWE Intern @ The Art of Problem Solving
+- SWE Intern @ The Department of Homeland Security
 # :round_pushpin: What Am I Doing?
 :clipboard: Currently I am:
 - Working on the Riot Games x AWS Hackathon :)
