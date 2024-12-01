@@ -9,7 +9,7 @@ Experience:
 - SWE Intern @ The Department of Homeland Security
 # :round_pushpin: What Am I Doing?
 :clipboard: Currently I am:
-- Working on the Riot Games x AWS Hackathon :)
+- Working on the Brainrot Hackathon :)
 - Grinding LeetCode
 - Applying to Jobs...
 # Tech Stack
