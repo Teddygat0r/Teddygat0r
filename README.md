@@ -2,6 +2,7 @@
 -----
 # :postbox: About Me
 I'm studying CS @ UW <br/>
+Aspiring machine learning engineer! Love building and optimizing inference stacks.
 ### :briefcase: Credentials
 Experience:
 - SWE Intern @ Jane Street
